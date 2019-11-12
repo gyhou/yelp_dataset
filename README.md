@@ -1,6 +1,6 @@
-# Load, Clean and Analyze Yelp Dataset
+# Yelp Dataset
 
-**【[Medium post](https://link.medium.com/0k0DEb3Qy1)】** 
+## **【[Medium post](https://link.medium.com/0k0DEb3Qy1)】** 
 
 <br>
 
