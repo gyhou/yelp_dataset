@@ -1,6 +1,10 @@
 # Yelp Dataset
+
 <br>
+
 ## **【[Medium post](https://link.medium.com/0k0DEb3Qy1)】** 
+
+<br>
 
 ## Data Source
 
