@@ -2,7 +2,7 @@
 
 <br>
 
-## **【[Medium post](https://link.medium.com/0k0DEb3Qy1)】** 
+## **【[Converting Yelp Dataset to CSV using Pandas](https://link.medium.com/0k0DEb3Qy1)】** 
 
 <br>
 
