@@ -15,4 +15,5 @@ Round 13 started January 15, 2019 to December 31, 2019.
 <br>
 
 Scattertext Visualization for Yelp Reviews on [RV Repair, RV Dealers, RV Rental, RV Parks and Campgrounds](http://gyhou.com/RV-Yelp-Reviews-Scattertext.html)
+
 Scattertext Visualization for Yelp Reviews on [RV Parks and Campgrounds](http://gyhou.com/RV-Parks-Campgrounds-Yelp-Scattertext.html)
