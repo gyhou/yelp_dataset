@@ -3,6 +3,7 @@
 <br>
 
 ## **【[Converting Yelp Dataset to CSV using Pandas](https://link.medium.com/0k0DEb3Qy1)】** 
+## **【[Analyzing Yelp Dataset with Scattertext spaCy](https://link.medium.com/k3DRTC57I1)】** 
 
 <br>
 
