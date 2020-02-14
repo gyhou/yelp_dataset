@@ -31,3 +31,39 @@ Round 13 started January 15, 2019 to December 31, 2019.
 ## [Yelp Rating Prediction API](https://gyhou.com/2019-09-27-Business-Recommendation/)
 - http://br-yelp-predict-rating.herokuapp.com
 - Using Yelp’s open dataset, I trained a model to predict the user’s review rating base on reviews on the Yelp dataset in the specific category.
+
+My API takes in a json string with "category" and "review". After sending the input to my API, it will respond with the predicted rating of the review.
+
+When submitting a review, make sure to specify which category the review is for.
+
+Example input:
+```python
+{"category": "Auto Repair", 
+ "review": "Service is the worst and the wait time is too long."}
+```
+The API will return a rating base on the category and review.
+Example Output:
+```python
+{'Category': 'Auto_Repair',
+ 'Review': 'Service is the worst and the wait time is too long.',
+ 'Predict rating': 1}
+```
+
+Below is the list of categories used in the Yelp dataset:
+* Active Life
+* Auto Repair
+* Automotive
+* Beauty Spas
+* Contractors
+* Doctors
+* Event Planning Services
+* Fashion
+* Fast Food
+* Hair Salons
+* Health Medical
+* Home Garden
+* Home Services
+* Local Services
+* Professional Services
+* Real Estate
+* Shopping 
