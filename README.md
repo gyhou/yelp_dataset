@@ -27,3 +27,7 @@ Round 13 started January 15, 2019 to December 31, 2019.
 
 
 <img src="https://github.com/gyhou/yelp_dataset/blob/master/yelp_rv_scattertext.png?raw=true">
+
+## [Yelp Rating Prediction API](https://gyhou.com/2019-09-27-Business-Recommendation/)
+- http://br-yelp-predict-rating.herokuapp.com
+- Using Yelp’s open dataset, I trained a model to predict the user’s review rating base on reviews on the Yelp dataset in the specific category.
